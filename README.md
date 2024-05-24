@@ -6,38 +6,13 @@ Hey folks! I'm Anshika, a fourth-year undergrad at Amity University, Noida in th
 
 ## 🔧 Skills & Interests
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="[https://img.icons8.com/color/2x/python.png]" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/2x/html-5.png" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/2x/css3.png" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/2x/javascript.png" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/2x/machine-learning.png" width="48" height="48" alt="Machine Learning" />
-      <br>Machine Learning
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/2x/database.png" width="48" height="48" alt="Data Science" />
-      <br>Data Science
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/2x/web-development.png" width="48" height="48" alt="Web Development" />
-      <br>Web Development
-    </td>
-  </tr>
-</table>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge&logo=jupyter&logoColor=white)
+![Web Development](https://img.shields.io/badge/Web%20Development-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## 🏆 GitHub Stats
 

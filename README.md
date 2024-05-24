@@ -1,6 +1,6 @@
 # Hi 👋, I'm ANSHIKA CHAUHAN
 
-![Banner Image](url-to-your-banner-image)
+![Banner Image](C:\Users\Anshika-Chauhan\Downloads\Profile.jpg)
 
 Hey folks! I'm Anshika, a fourth-year undergrad at Amity University, Noida in the Computer Science department. Currently, I'm working as an intern at Open Health Systems Laboratory. I am diving deep into Competitive Programming and Data Science. It's my passion to work on Data Science projects and gain practical experience to expand my knowledge in algorithmic excellence and tech advancement.
 

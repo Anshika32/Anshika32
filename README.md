@@ -5,10 +5,39 @@
 Hey folks! I'm Anshika, a fourth-year undergrad at Amity University, Noida in the Computer Science department. Currently, I'm working as an intern at Open Health Systems Laboratory. I am diving deep into Competitive Programming and Data Science. It's my passion to work on Data Science projects and gain practical experience to expand my knowledge in algorithmic excellence and tech advancement.
 
 ## 🔧 Skills & Interests
-- 💻 Competitive Programming
-- 📊 Data Science
-- 📈 Machine Learning
-- 🌐 Web Development
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="[https://img.icons8.com/color/2x/python.png](https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000)" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/2x/html-5.png" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/2x/css3.png" width="48" height="48" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/2x/javascript.png" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/2x/machine-learning.png" width="48" height="48" alt="Machine Learning" />
+      <br>Machine Learning
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/2x/database.png" width="48" height="48" alt="Data Science" />
+      <br>Data Science
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/2x/web-development.png" width="48" height="48" alt="Web Development" />
+      <br>Web Development
+    </td>
+  </tr>
+</table>
 
 ## 🏆 GitHub Stats
 

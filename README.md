@@ -12,9 +12,10 @@ Hey folks! I'm Anshika, a fourth-year undergrad at Amity University, Noida in th
 
 ## 🏆 GitHub Stats
 
-![Anshika Chauhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Anshika Chauhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anshika32&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika32&layout=compact&theme=radical)
+
 
 ## 🚀 Projects
 - **[Project Name](link-to-project-repo)**: Short description of the project.

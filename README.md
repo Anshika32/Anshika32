@@ -18,8 +18,9 @@ Hey folks! I'm Anshika, a fourth-year undergrad at Amity University, Noida in th
 
 
 ## 🚀 Projects
-- **[Project Name](link-to-project-repo)**: Short description of the project.
-- **[Another Project](link-to-project-repo)**: Brief summary of what the project does.
+- **[Project Name]((https://github.com/Anshika32/Bangalore-House-Prices))**: This project aims to predict house prices in Bangalore, India, using machine learning techniques. The prediction model is deployed using a Flask server, and a client-side interface is provided for users to input parameters and get price predictions.
+  
+- **[Another Project]((https://github.com/Anshika32/Sports-Celebrity-Face-Recognition))**: This project involves creating a celebrity face classification model using OpenCV for image processing, and Flask for the backend server. The application allows users to input an image via a user interface, and the model will identify the celebrity in the image.
 
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/your-linkedin-profile)

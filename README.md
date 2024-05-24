@@ -1,12 +1,27 @@
 # Hi 👋, I'm ANSHIKA CHAUHAN
 
-Hey folks! I'm Anshika, a fourth year undergrad at Amity University, Noida in the Computer Science department. Currently I'm working as intern at Open Health Systems Laboratory. I am currently diving deep into Competitive Programming and Data Science. It's my passion to work on Data Science projects and gain practical experience in order to expand my knowledge of learning the art of algorithmic excellence and to develop products and services that create a positive impact on the society, simultaneously striding to take tech advancement to the next level. My long-term goal is to leverage my skills and experience to develop products and services that create an impact and make people’s lives easier. Thank you for taking the time to read my profile, and I look forward to exploring opportunities to collaborate and drive innovation together. Let's connect and explore how we can collaborate to drive success!
+![Banner Image](url-to-your-banner-image)
 
-![Profile views](https://gpvc.arturio.dev/Anshika32)
+Hey folks! I'm Anshika, a fourth-year undergrad at Amity University, Noida in the Computer Science department. Currently, I'm working as an intern at Open Health Systems Laboratory. I am diving deep into Competitive Programming and Data Science. It's my passion to work on Data Science projects and gain practical experience to expand my knowledge in algorithmic excellence and tech advancement.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/chauhananshika)
+## 🔧 Skills & Interests
+- 💻 Competitive Programming
+- 📊 Data Science
+- 📈 Machine Learning
+- 🌐 Web Development
 
-## GitHub Stats:
-![Shashwat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshika32&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika32&layout=compact&theme=dark)
+## 🏆 GitHub Stats
 
+![Anshika Chauhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+## 🚀 Projects
+- **[Project Name](link-to-project-repo)**: Short description of the project.
+- **[Another Project](link-to-project-repo)**: Brief summary of what the project does.
+
+## 📫 Contact Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/your-linkedin-profile)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your-email@example.com)
+
+Thank you for taking the time to read my profile, and I look forward to exploring opportunities to collaborate and drive innovation together. Let's connect and explore how we can collaborate to drive success!

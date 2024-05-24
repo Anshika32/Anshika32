@@ -1,6 +1,6 @@
 # Hi 👋, I'm ANSHIKA CHAUHAN
 
-![Banner Image]([C:\Users\Anshika-Chauhan\Downloads\Profile.jpg](https://th.bing.com/th/id/R.becc230c23731f915c8c0fea5d3da181?rik=6zEhBl5ZwqskTQ&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fscience-fiction-png-science-fiction-png-picture-891.png&ehk=37QjELJ0U5cuIOgY5A8J%2fHCg2c%2fmHiOKZfFf%2ftQ00Po%3d&risl=&pid=ImgRaw&r=0))
+![Banner Image](https://github.com/Anshika32/Anshika32/blob/main/profile.png?raw=true)
 
 Hey folks! I'm Anshika, a fourth-year undergrad at Amity University, Noida in the Computer Science department. Currently, I'm working as an intern at Open Health Systems Laboratory. I am diving deep into Competitive Programming and Data Science. It's my passion to work on Data Science projects and gain practical experience to expand my knowledge in algorithmic excellence and tech advancement.
 

@@ -23,7 +23,7 @@ Hey folks! I'm Anshika, a fourth-year undergrad at Amity University, Noida in th
 - **[Face Recognition]((https://github.com/Anshika32/Sports-Celebrity-Face-Recognition))**: This project involves creating a celebrity face classification model using OpenCV for image processing, and Flask for the backend server. The application allows users to input an image via a user interface, and the model will identify the celebrity in the image.
 
 ## 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/chauhananshika) 
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:canshika123@example.com)
 
 Thank you for taking the time to read my profile, and I look forward to exploring opportunities to collaborate and drive innovation together. Let's connect and explore how we can collaborate to drive success!

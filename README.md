@@ -9,7 +9,7 @@ Hey folks! I'm Anshika, a fourth-year undergrad at Amity University, Noida in th
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="[https://img.icons8.com/color/2x/python.png](https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000)" width="48" height="48" alt="Python" />
+      <img src="[https://img.icons8.com/color/2x/python.png]" width="48" height="48" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="96">

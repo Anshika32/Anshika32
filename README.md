@@ -41,10 +41,6 @@ Hey folks! I'm Anshika, a fourth-year undergrad at Amity University, Noida in th
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika32&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anshika32&theme=radical)
 
-![Anshika's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Anshika32&theme=rogue)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Anshika32&theme=darkhub)
-
 ## 🚀 Projects
 ### [Bangalore House Predictions](https://github.com/Anshika32/Bangalore-House-Prices)
 This project aims to predict house prices in Bangalore, India, using machine learning techniques. The prediction model is deployed using a Flask server, and a client-side interface is provided for users to input parameters and get price predictions.

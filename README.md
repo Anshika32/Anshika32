@@ -37,13 +37,13 @@ Hey folks! I'm Anshika, a fourth-year undergrad at Amity University, Noida in th
 
 ## 📊 GitHub Stats
 
-![Anshika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+![Anshika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anshika32&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika32&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anshika32&theme=radical)
 
-![Anshika's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=your-username&theme=rogue)
+![Anshika's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Anshika32&theme=rogue)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Anshika32&theme=darkhub)
 
 ## 🚀 Projects
 ### [Bangalore House Predictions](https://github.com/Anshika32/Bangalore-House-Prices)

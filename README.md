@@ -7,13 +7,34 @@ Hey folks! I'm Anshika, a fourth-year undergrad at Amity University, Noida in th
 
 ## 🔧 Skills & Interests
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+
+### Machine Learning
+
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge&logo=jupyter&logoColor=white)
-![Web Development](https://img.shields.io/badge/Web%20Development-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge&logo=keras&logoColor=white)
+![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-3498DB?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-4B8BBE?style=for-the-badge&logo=jupyter&logoColor=white)
+![Falcon Model](https://img.shields.io/badge/Falcon%20Model-FF7F50?style=for-the-badge&logo=dataiku&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFDA4F?style=for-the-badge&logo=hugging-face&logoColor=black)
+
 
 ## 🏆 GitHub Stats
 

@@ -35,11 +35,15 @@ Hey folks! I'm Anshika, a fourth-year undergrad at Amity University, Noida in th
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFDA4F?style=for-the-badge&logo=hugging-face&logoColor=black)
 
+## 📊 GitHub Stats
 
-## 🏆 GitHub Stats
+![Anshika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
 
-![Anshika Chauhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anshika32&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika32&layout=compact&theme=radical)
+![Anshika's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=your-username&theme=rogue)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub)
 
 ## 🚀 Projects
 ### [Bangalore House Predictions](https://github.com/Anshika32/Bangalore-House-Prices)
